@@ -14,7 +14,7 @@ Here are three traps to start. Read them, then add your own at the bottom.
 
 Add one trap you've actually run into. Give it a short name and one plain sentence.
 
-- **(your trap name).** What it looks like, in your own words.
+- **(deadline rush).** wait to late, procrastanait and, when you get fully to work theres only a little time left so you have to do a rush.
 
 ---
 
